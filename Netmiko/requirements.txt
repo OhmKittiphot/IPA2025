@@ -1,0 +1,3 @@
+netmiko
+paramiko==2.8.1
+
